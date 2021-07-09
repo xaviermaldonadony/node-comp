@@ -16,9 +16,12 @@
 	},
 	"dependencies": {
 		"body-parser": "^1.18.3",
+		"dotenv": "^10.0.0",
 		"ejs": "^2.6.1",
 		"express": "^4.16.3",
 		"express-handlebars": "^3.0.0",
+		"mongodb": "^3.6.9",
+		"mongoose": "^5.13.2",
 		"mysql2": "^2.2.5",
 		"pug": "^2.0.3",
 		"sequelize": "^6.6.2"
